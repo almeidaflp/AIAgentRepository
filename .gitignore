@@ -1,8 +1,19 @@
 
-# Playwright
+# Node / package manager
 node_modules/
+.npm/
+package-lock.json
+
+# Playwright
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
