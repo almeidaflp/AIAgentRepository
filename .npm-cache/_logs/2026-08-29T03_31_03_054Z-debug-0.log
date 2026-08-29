@@ -1,0 +1,18 @@
+0 verbose cli /opt/homebrew/Cellar/node/23.9.0/bin/node /opt/homebrew/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v23.9.0
+3 silly config load:file:/opt/homebrew/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/felipealmeida/Desktop/Developer/AIAgentMCP/.npmrc
+5 silly config load:file:/Users/felipealmeida/.npmrc
+6 silly config load:file:/opt/homebrew/etc/npmrc
+7 verbose title npm exec playwright test tests/checkout-flow.spec.ts --reporter=line
+8 verbose argv "exec" "--" "playwright" "test" "tests/checkout-flow.spec.ts" "--reporter=line"
+9 verbose logfile logs-max:10 dir:/Users/felipealmeida/Desktop/Developer/AIAgentMCP/.npm-cache/_logs/2026-08-29T03_31_03_054Z-
+10 verbose logfile /Users/felipealmeida/Desktop/Developer/AIAgentMCP/.npm-cache/_logs/2026-08-29T03_31_03_054Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /Users/felipealmeida/Desktop/Developer/AIAgentMCP
+13 verbose os Darwin 24.5.0
+14 verbose node v23.9.0
+15 verbose npm  v10.9.2
+16 verbose exit 1
+17 verbose code 1
